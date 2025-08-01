@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,116.252.25.150/8081,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
@@ -808,6 +809,7 @@ DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,smartedu.cn
 DOMAIN-SUFFIX,taihe.com
 DOMAIN-SUFFIX,th-sjy.com
 DOMAIN-SUFFIX,tianqi.com
